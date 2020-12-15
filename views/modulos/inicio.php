@@ -1,39 +1,3 @@
-
-    
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: #950000 ;">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-  
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">inicio<span class="sr-only"></span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">juegos</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            agregar+
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Something else here</a>
-          </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">reportes</a>
-        </li>
-      </ul>
-      
-    </div>
-  </nav>
-
   <!-- Page Content -->
   <div class="container" >
 
@@ -55,21 +19,21 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="assets/img/fo1.jpeg" class="d-block w-100" alt="..."width="250px" height="400px">
+                    <img src="dist/img/fo1.jpeg" class="d-block w-100" alt="..."width="250px" height="400px">
                     <div class="carousel-caption d-none d-md-block">
                       <h5>First slide label</h5>
                       <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img src="assets/img/fo2.png" class="d-block w-100" alt="..."width="250px" height="400px">
+                    <img src="dist/img/fo2.png" class="d-block w-100" alt="..."width="250px" height="400px">
                     <div class="carousel-caption d-none d-md-block">
                       <h5>Second slide label</h5>
                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </div>
                   </div>
                   <div class="carousel-item">
-                    <img src="assets/img/fo3.jpg" class="d-block w-100" alt="..."width="250px" height="400px">
+                    <img src="dist/img/fo3.jpg" class="d-block w-100" alt="..."width="250px" height="400px">
                     <div class="carousel-caption d-none d-md-block">
                       <h5>Third slide label</h5>
                       <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>

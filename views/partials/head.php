@@ -6,5 +6,5 @@
     <title>Store Games</title>
     <link rel="stylesheet" href="dist/css/bootstrap.min.css">
 </head>
-<body style="padding-top: 56px;background-color: gray;">
+<body style="padding-top: 56px;">
     

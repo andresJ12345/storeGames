@@ -38,7 +38,7 @@
 			</div>
 			<div class="card-footer">
 				<div class="d-flex justify-content-center links">
-					no tienes cuenta?<a href="Registrar">Registrarse</a>
+					no tienes cuenta?<a href="register">Registrarse</a>
 				</div>
 				<div class="d-flex justify-content-center">
 					<a href="contrasenia">olvide mi contraseña</a>

@@ -24,7 +24,8 @@ if(isset($_GET['ruta'])){
             
           
     }
-    elseif ($_GET['ruta']=="login") {
+    elseif ($_GET['ruta']=="login"||
+    $_GET['ruta']=="register" ) {
         include "views/login/".$_GET['ruta'].".php";
    
     

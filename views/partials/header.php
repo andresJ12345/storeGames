@@ -33,6 +33,9 @@
       <ul class="navbar-nav">
       <li class="nav-item float right">
           <a class="nav-link " href="login">login</a>
+        </li>
+        <li class="nav-item float right">
+          <a class="nav-link " href="register">Registrarse</a>
         </li></ul>
      
     </div>

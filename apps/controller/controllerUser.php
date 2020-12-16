@@ -1,6 +1,7 @@
 <?php
 class ControllerUser {
      public function crearUSuario(){
+       
        if(isset($_POST['nombre'])|| isset($_POST['apellido'])||isset($_POST['nickname'])
        || isset($_POST['email'])|| isset($_POST['password']) ){
         $tabla = "usuario";

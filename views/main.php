@@ -9,13 +9,13 @@ if(isset($_GET['ruta'])){
     $_GET['ruta']=="catalogoAll"||
     $_GET['ruta']=="salir")
     {
-     include ''.$encabezado;
+        include ''.$encabezado;
         include ''.$menu;
         
         include "views/modulos/".$_GET['ruta'].".php";
         include '' .$pie;
     }
-    else if($_GET['ruta']=="usuarios")
+    else if($_GET['ruta']=="videoJuegos" || $_GET['ruta']=="agregarListar")
     {   include '' .$encabezado;
         include '' .$menu;
         

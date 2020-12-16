@@ -7,5 +7,6 @@ hola JUGADORES
 <script>
       $('.carousel').carousel()
     </script>
+    <script src="dist/js/main.js"></script>
 </body>
 </html>
